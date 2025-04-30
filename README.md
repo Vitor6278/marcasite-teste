@@ -126,3 +126,4 @@ O sistema permite:
 * `routes/`: Arquivos de definição de rotas (web.php, auth.php, api.php, console.php).
 * `storage/app/public/`: Onde os arquivos de material dos cursos são armazenados.
 
+Espero que este sistema e sua documentação atendam aos critérios da avaliação, apresentando de forma clara as funcionalidades desenvolvidas com o Laravel.
